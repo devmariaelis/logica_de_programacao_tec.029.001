@@ -2,7 +2,7 @@
 nome = input("Informe seu nome: ").strip().title()
 email = input("Informe seu e-mail: ").strip().lower()
 cpf = input("Informe seu CPF: ").strip()
-telefone = input("Informe seu telefone: ").strip
+telefone = input("Informe seu telefone: ").strip()
 idade = int(input("Informe sua idade: "))
 altura = float(input("Informe sua altura: ").replace(",","."))
             

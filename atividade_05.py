@@ -1,4 +1,4 @@
-nome = input("Informe seu nome: ")
+nome = input("Informe seu nome: ").strip().title()
 nota1 = int(input("Informe sua primeira nota: "))
 nota2 = int(input("Informe sua segunda nota: "))
 media = (nota1 + nota2)/2
